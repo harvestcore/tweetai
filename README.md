@@ -4,7 +4,7 @@ I've never coded an AI before, so this code might have a ton of errors. Please d
 
 I'm also planning to develop it as a microservice, so it can be used by one of my other projects (Twitter bot).
 
-What I'll be using:
+Things that I'll be using:
 - Python
 - TensorFlow
 - MongoAtlas
