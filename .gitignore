@@ -4,6 +4,7 @@ config.json
 *.jpg
 output_*
 input_*
+*.hdf5
 
 
 # Byte-compiled / optimized / DLL files
