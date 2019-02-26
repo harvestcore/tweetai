@@ -3,6 +3,7 @@
 config.json
 *.jpg
 output_*
+input_*
 
 
 # Byte-compiled / optimized / DLL files
